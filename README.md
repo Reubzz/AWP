@@ -90,4 +90,26 @@ Public static void Red()
 
 [Write a program to accept a number from the user and throw an exception if the number is not an even number.](pac2_10.zip)
 
+[Create an application that allows the user to enter a number in the textbox named ‘getnum’. Check whether the number in the textbox ‘getnum’ is palindrome or not. Print the message accordingly in the label control named lbldisplay when the user clicks on the button ‘check’](palindrome_web.zip)
 
+[List of employees is available in listbox. Write an application to add selected or all records from listbox (assume multi-line property of textbox is true).](list_of_employee_web.zip)
+
+[Create a project that calculates the total of fat, carbohydrate and protein. Allow the user to enter into text boxes. The grams of fat, grams of carbohydrate and grams of protein. Each gram of fat is 9 calories and protein or carbohydrate is 4 calories. Display the total calories of the current food item in a label. Use to other labels to display and accumulated some of calories and the count of items entered. The form food have 3 text boxes for the user to enter the grams for each category include label next to each text box indicating what the user is enter](calories_web.zip)
+
+[Set the label border color of rollno to red using css.](prac4_1_borderclr.zip)
+
+[Design an asp.net webpage with 2 groups of Radio Buttons, DropDownList, label and TextBox to perform the following operations:- I) On click of Radio Buttons each at the same time from two different groups, change the font- size and font-face of the label’s Text. II) Also on the same webpage show that, on selecting a country name from the dropdown list, its respective country code gets displayed in a textbox.](design_asp_page_radiobutton.zip )
+
+[String Operations - Upper Case, Lower Case, Reverse, length](striing_operation_web.zip)
+
+[“How is the book ASP.NET with c# by Vipul Prakashan?” Give the user three choice : i)Good ii)Satisfactory iii)Bad. Provide a VOTE button. After user votes, present the result in percentage using labels next to the choices.](three_choice_web.zip)
+
+[Create a simple web page to display the Date properties (year, month, day, hour, minute, second, millisecond etc.) as well as to display the number of days of the year between two specified years.](date_properties_web.zip)
+
+[Set the font-Arial , font style-bond , font size-18px of different controls(ie. Label, textbox, button) using css.](set_font_details_web.rar)
+
+[Programs using ASP.NET Server controls. Create the application that accepts name, password ,age , email id, and user id. Allthe information entry is compulsory. Password should be reconfirmed. Age should be within 21 to 30. Email id should be valid. User id should have at least a capital letter and digit as well as length should be between 7 and 20 characters.](details_validation_web.zip)
+
+[Create an application which will ask the user to input his name and a message, display the two items concatenated in a label, and change the format of the label using radio buttons and check boxes for selection , the user can make the label text bold underlined or italic and change its color . include buttons to display the message in the label, clear the text boxes and label and exit.](inputname_web.zip)
+
+[Slip Codes - Footer](Footer.rar)
