@@ -28,7 +28,9 @@
 
 [Write an application that receives the following information from a set of students: Student Id, Student Name, Course Name, Date of Birth, The application should also display the information of all the students once the data is Entered. Implement this using an Array of Structures](prac1f_stuDetails.zip)
 
-### Practical 1G - Write programs using conditional statements and loops: 
+<hr>
+
+### Write programs using conditional statements and loops: 
 - [Generate Fibonacci series.](prac1g_1Fibonacci.zip)
 
 - Generate various patterns (triangles, diamond and other patterns) with numbers.
@@ -48,8 +50,7 @@
 
 - [Test for vowels.](prac1g_vowels.zip)
 
-
-### Practical 2 
+<hr>
 
 [Write a program to declare a class ‘staff’ having data members as name and post.accept this data 5for 5 staffs and display names of staff who are HOD.](prac2_1.zip)
 
@@ -58,6 +59,8 @@
 [Write a program using function overloading to swap two integer numbers and swap two float numbers.](prac2_3.zip)
 
 [Define a class ‘salary’ which will contain member variable Basic, TA, DA, HRA. Write a program using Constructor with default values for DA and HRA and calculate the salary of employee](prac2_5.zip)
+
+<hr>
 
 [Write a program to implement single inheritance from following figure. Accept and display data for one table.](prac2_4.zip) <br> ![image](https://github.com/fuze04/AWP/assets/74487020/d4471520-b406-491a-a878-ca660e904c17)
 
@@ -85,7 +88,6 @@ Public static void Red()
 }
 ```
 
-[Write a program to accept a number from the user and throw an exception if the 
-number is not an even number.]()
+[Write a program to accept a number from the user and throw an exception if the number is not an even number.](pac2_10.zip)
 
 
